@@ -1,0 +1,31 @@
+[*]
+[*] GTKWave Analyzer v3.3.103 (w)1999-2019 BSI
+[*] Sat Oct 23 05:29:02 2021
+[*]
+[dumpfile] "/home/erjomuza/Documents/proyecto_dig_I/serial_paralelo/test.vcd"
+[dumpfile_mtime] "Sat Oct 23 05:27:32 2021"
+[dumpfile_size] 6254
+[savefile] "/home/erjomuza/Documents/prof/proyecto_1_G6_prof/serial_paralelo/serial_paralelo.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*-16.000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] bancoPruebas.
+[treeopen] bancoPruebas.estructural.
+[sst_width] 233
+[signals_width] 158
+[sst_expanded] 1
+[sst_vpaned_height] 144
+@28
+bancoPruebas.estructural.active_output
+@22
+bancoPruebas.estructural.data_output[7:0]
+@28
+bancoPruebas.estructural.clk_4f
+bancoPruebas.estructural.clk_32f
+bancoPruebas.estructural.active_output
+bancoPruebas.estructural.valid_out
+@29
+bancoPruebas.estructural.BC_contador[2:0]
+[pattern_trace] 1
+[pattern_trace] 0

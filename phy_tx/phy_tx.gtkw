@@ -1,0 +1,29 @@
+[*]
+[*] GTKWave Analyzer v3.3.103 (w)1999-2019 BSI
+[*] Sat Oct 23 05:25:48 2021
+[*]
+[dumpfile] "/home/erjomuza/Documents/proyecto_dig_I/phy_tx/phy_tx.vcd"
+[dumpfile_mtime] "Sat Oct 23 05:23:53 2021"
+[dumpfile_size] 121545
+[savefile] "/home/erjomuza/Documents/prof/proyecto_1_G6_prof/phy_tx/phy_tx.gtkw"
+[timestart] 457700
+[size] 1848 1136
+[pos] 72 0
+*-17.224148 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] BancoPruebas.
+[treeopen] BancoPruebas.phy_tx_conductual.
+[sst_width] 233
+[signals_width] 134
+[sst_expanded] 1
+[sst_vpaned_height] 331
+@22
+BancoPruebas.phy_tx_conductual.Byte_Striping.data_in[31:0]
+BancoPruebas.phy_tx_conductual.Byte_Striping.lane0[31:0]
+BancoPruebas.phy_tx_conductual.Byte_Striping.lane1[31:0]
+BancoPruebas.phy_tx_conductual.conv_32b_to_8b_1.data_out[7:0]
+BancoPruebas.phy_tx_conductual.conv_32b_to_8b_2.data_out[7:0]
+@28
+BancoPruebas.phy_tx_conductual.paralelo_serial_1.data_out
+BancoPruebas.phy_tx_conductual.paralelo_serial_2.data_out
+[pattern_trace] 1
+[pattern_trace] 0
